@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyon i'm Gabriel</h1>
+<h1 align="center">Hello everyone i'm Gabriel</h1>
 <h3 align="center">A brazilian student from engineering and web programming</h3>
 
 - 🌱 I’m currently learning **HTML / CSS / JavaScript / ReactJS / TypeScript**
