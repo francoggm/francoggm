@@ -1,9 +1,9 @@
 <h1 align="center">Hello everyone i'm Gabriel</h1>
 <h3 align="center">A brazilian student from engineering and web programming</h3>
 
-- 🌱 I’m currently learning **HTML / CSS / JavaScript / ReactJS / TypeScript**
+- 🌱 I’m currently learning **HTML / CSS / JavaScript / C/C++ - Robotic **
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Any type of project**
 
 - 🤝 I’m looking for help with **Web projects**
 
