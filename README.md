@@ -2,7 +2,7 @@
 <h3 align="center">A brazilian student from engineering, data science and backend</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="550" height="220"/>
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
 </div>
 
 - 🌱 Major domain technologies **Python / Flask / JavaScript / Vue.js**
@@ -83,9 +83,13 @@
 <a href="https://cloud.google.com" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-
-
-
 </p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<br>
+<div align="center">
+  <img src="https://github.com/francoggm/francoggm/blob/output/github-contribution-grid-snake.svg">
+</div>
+  
+
+
+
