@@ -1,23 +1,91 @@
 <h1 align="center">Hello everyone i'm Gabriel</h1>
 <h3 align="center">A brazilian student from engineering, data science and backend</h3>
 
-- 🌱 Major domain technologies **Python / Vue.js / JavaScript / Robotic (C)**
+<div align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="550" height="220"/>
+</div>
 
-- 📫 How to reach me **francogm77@hotmail.com**
+- 🌱 Major domain technologies **Python / Flask / JavaScript / Vue.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-franco-79325a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-franco-79325a20b" height="30" width="40" /></a>
+- :briefcase: Currently working as a data science / software engineer at **Asimov Finance**
+
+- :desktop_computer: Programming for me has gone beyond professional barriers and is part of my life
+
+- :video_game: I like to play video games, and watch movies in my spare time
+
+<br>
+
+<h3 align="center">Github stats</h3>
+<div style="display: inline-block;" align="center">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=francoggm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoggm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.instagram.com/francoggm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="discordapp.com/users/frango#0976" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:francogm77@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/francoggm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francoggm&show_icons=true&locale=en&layout=compact" alt="francoggm" /></p>
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francoggm&show_icons=true&locale=en" alt="francoggm" /></p>
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+</a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francoggm&" alt="francoggm" /></p>
+<a href="https://pandas.pydata.org/docs/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.tensorflow.org/api_docs" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+</a> 
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="*" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="*" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://devdocs.io/cpp/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://docs.oracle.com/en/java/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://docs.docker.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://cloud.google.com" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
 
 
 
+</p>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
