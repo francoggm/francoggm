@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
 </div>
 
-- 🌱 Major domain technologies **Python / Flask / JavaScript / Vue.js**
+- 🌱 Major domain technologies **Python / Flask / SQL / JavaScript / Vue.js**
 
 - :briefcase: Currently working as a data science / software engineer at **Asimov Finance**
 
