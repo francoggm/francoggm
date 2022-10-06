@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone i'm Gabriel</h1>
-<h3 align="center">A brazilian student from engineering, data science and backend</h3>
+<h3 align="center">A brazilian student from engineering, data science and software engineer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
