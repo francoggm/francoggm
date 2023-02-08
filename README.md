@@ -4,14 +4,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
 </div>
+<br>
+<div align="center">
+  
+  #### 🌱 Major domain technologies <b>Python / Node.js / Java / Vue.js / SQL</b>
 
-- 🌱 Major domain technologies **Python / Flask, Django & FastAPI / SQL / JavaScript**
-
-- :briefcase: Currently working as a data science / software engineer at **Asimov Finance**
-
-- :desktop_computer: Programming for me has gone beyond professional barriers and is part of my life
-
-- :video_game: I like to play video games, and watch movies in my spare time
+ #### :desktop_computer: Programming for me has gone beyond professional barriers and is part of my life
+</div>
 
 <br>
 
@@ -40,20 +39,36 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
 </a> 
 
-<a href="https://pandas.pydata.org/docs/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.tensorflow.org/api_docs" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="python" width="40" height="40"/> 
+ <a href="https://www.djangoproject.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="python" width="40" height="40"/> 
 </a> 
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+  
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+  
+<a href="https://nodejs.org/en/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="javascript" width="40" height="40"/> 
+</a>
+
+<a href="https://expressjs.com/pt-br/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+  
+<a href="https://nestjs.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+  
+<a href="https://docs.oracle.com/en/java/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://spring.io/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
 
 <a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
@@ -68,21 +83,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 
-<a href="https://devdocs.io/cpp/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://docs.oracle.com/en/java/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
 <a href="https://docs.docker.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 
 <a href="https://cloud.google.com" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+  
+<a href="https://aws.amazon.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
+
 </p>
 
 <br>
