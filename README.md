@@ -36,18 +36,18 @@
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </a> 
-  
+
 <a href="https://spring.io/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+  
+<a href="https://go.dev/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="spring" width="40" height="40"/> 
 </a> 
   
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
 </a>   
-
-<a href="https://go.dev/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="go" width="40" height="40"/> 
-</a> 
 
 <a href="https://docs.docker.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
