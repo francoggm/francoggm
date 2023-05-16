@@ -7,7 +7,7 @@
 <br>
 <div align="center">
   
-  #### 🌱 Major domain technologies <b>Python / Node.js / Java / Vue.js / SQL</b>
+  #### 🌱 Major domain technologies <b>Python / Java / Go / SQL</b>
 
  #### :desktop_computer: Programming for me has gone beyond professional barriers and is part of my life
 </div>
@@ -37,62 +37,26 @@
 
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-</a> 
-
- <a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-  
-<a href="https://fastapi.tiangolo.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-  
-<a href="https://nodejs.org/en/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="javascript" width="40" height="40"/> 
-</a>
-
-<a href="https://expressjs.com/pt-br/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-  
-<a href="https://nestjs.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="javascript" width="40" height="40"/> 
-</a> 
+</a>   
   
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </a> 
 
+<a href="https://go.dev/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+  
 <a href="https://spring.io/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-
-<a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="*" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="*" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="spring" width="40" height="40"/> 
 </a> 
 
 <a href="https://docs.docker.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
-
-<a href="https://cloud.google.com" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
   
 <a href="https://aws.amazon.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
 </a> 
 
 </p>
