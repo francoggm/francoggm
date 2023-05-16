@@ -1,15 +1,11 @@
-<h1 align="center">Hello everyone i'm Gabriel</h1>
-<h3 align="center">A brazilian software engineer</h3>
+<h1 align="center">Hello everyone i'm Gabriel, a brazilian Software Engineer</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
 </div>
 <br>
 <div align="center">
-  
-  #### 🌱 Major domain technologies <b>Python / Java / Go / SQL</b>
-
- #### :desktop_computer: Programming for me has gone beyond professional barriers and is part of my life
+  #### 🌱 Domain technologies -> <b>Python / Java / Go / SQL</b>
 </div>
 
 <br>
@@ -34,21 +30,21 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-</a>   
   
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </a> 
-
-<a href="https://go.dev/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="go" width="40" height="40"/> 
-</a> 
   
 <a href="https://spring.io/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+</a> 
+  
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+</a>   
+
+<a href="https://go.dev/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="go" width="40" height="40"/> 
 </a> 
 
 <a href="https://docs.docker.com/" target="_blank"> 
