@@ -1,4 +1,4 @@
-<h2 align="center">Hello everyone i'm <strong> Gabriel </strong>, a brazilian Software Engineer</h2>
+<h2 align="center">Hello everyone i'm <strong> Gabriel</strong>, a brazilian Software Engineer</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
