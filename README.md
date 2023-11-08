@@ -1,20 +1,17 @@
-<h2 align="center">Hello everyone i'm <strong> Gabriel</strong>, a brazilian Software Engineer</h2>
+<h2 align="center">I'm <strong> Gabriel</strong>, a Brazilian Software Engineer</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="220"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="220"/>
 </div>
 <br>
 <div align="center">
-  
-  ### 🌱 Domain technologies -> <b>Python / Java / Go / SQL</b>
-  
+  <h4>⭐⭐ Domain technologies > <strong>Java / Go / Python ⭐⭐</strong></h1>
 </div>
 
 <br>
 
 <h3 align="center">Github stats</h3>
 <div style="display: inline-block;" align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=francoggm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoggm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
