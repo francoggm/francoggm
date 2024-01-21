@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-  <h4>⭐⭐ Domain technologies > <strong>Java / Go / Python ⭐⭐</strong></h1>
+  <h4>⭐⭐ Domain technologies | <strong>Go / Python / Java ⭐⭐</strong></h1>
 </div>
 
 <br>
