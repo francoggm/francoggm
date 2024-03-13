@@ -1,11 +1,7 @@
 <h2 align="center">I'm <strong> Gabriel</strong>, a Brazilian Software Engineer</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="220"/>
-</div>
-<br>
-<div align="center">
-  <h4>⭐⭐ Domain technologies | <strong>Go / Python / Java ⭐⭐</strong></h1>
+  <h3>⭐⭐ <strong>Go | Python | Java | Node ⭐⭐</strong></h3>
 </div>
 
 <br>
