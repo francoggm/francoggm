@@ -23,7 +23,6 @@
 
 <br>
 
-<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
@@ -52,10 +51,6 @@
 
 </p>
 
-<br>
-<div align="center">
-  <img src="https://github.com/francoggm/francoggm/blob/output/github-contribution-grid-snake.svg">
-</div>
   
 
 
