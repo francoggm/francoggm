@@ -1,14 +1,14 @@
 <h2 align="center">I'm <strong> Gabriel</strong>, a Brazilian Software Engineer</h2>
 
 <div align="center">
-  <h3>⭐⭐ <strong>Go | Python | Java | Node ⭐⭐</strong></h3>
+  <h3><strong>Go | Rust | Python | Java | Node</strong></h3>
 </div>
 
 <br>
 
 <h3 align="center">Github stats</h3>
 <div style="display: inline-block;" align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoggm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoggm&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <br>
