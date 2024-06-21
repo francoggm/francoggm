@@ -1,10 +1,14 @@
-<h2 align="center">I'm <strong> Gabriel</strong>, a Brazilian Software Engineer</h2>
+<h2 align="center" color="#fff">I'm <strong color="#00ADD8"> Gabriel</strong>, a Software Engineer</h2>
 
 <div align="center">
-  <h3><strong>Go | Rust | Python | Java | Node</strong></h3>
+  <h3 color="#fff">Go ✨ Rust ✨ Python ✨ React ✨ Typescript ✨AWS</h3>
 </div>
 
 <br>
+
+<div style="display: inline-block;" align="center">
+  <img src="https://github.com/francoggm/francoggm/assets/82771295/1aefc480-b8eb-47de-8633-343c2d5de11e" />
+</div>
 
 <h3 align="center">Github stats</h3>
 <div style="display: inline-block;" align="center">
@@ -37,8 +41,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.java.com/pt-BR/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="go" width="40" height="40"/> 
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://react.dev/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="go" width="40" height="40"/> 
 </a>   
 
 <a href="https://docs.docker.com/" target="_blank"> 
