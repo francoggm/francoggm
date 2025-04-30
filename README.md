@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-  <img align="center" src="https://skillicons.dev/icons?i=go,python,java,aws,gcp,docker&theme=dark" />
+  <img align="center" src="https://skillicons.dev/icons?i=go,python,java,kubernetes,aws,gcp,docker&theme=dark" />
 </div>
 
 <br>
