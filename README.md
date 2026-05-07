@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-  <img align="center" src="https://skillicons.dev/icons?i=go,python,java,kubernetes,aws,gcp,docker&theme=dark" />
+  <img align="center" src="https://skillicons.dev/icons?i=go,python,rust,java,kubernetes,aws,gcp,docker&theme=dark" />
 </div>
 
 <h3 align="center">Github stats</h3>
